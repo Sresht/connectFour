@@ -1,0 +1,270 @@
+Welcome to Connect4!
+
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | |X| |
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | |O|X| |
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | |X| |O|X| |
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | |X| |O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|X| |X| |O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | |O|
+|X| |X| |O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | |X| | | |O|
+|X| |X| |O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | |O| | | | |
+| | |X| | | |O|
+|X| |X| |O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | |O| | | | |
+|X| |X| | | |O|
+|X| |X| |O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | |O| | | | |
+|X| |X| | |O|O|
+|X| |X| |O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | |X| | | | |
+| | |O| | | | |
+|X| |X| | |O|O|
+|X| |X| |O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | |X| | | | |
+| | |O| | |O| |
+|X| |X| | |O|O|
+|X| |X| |O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | | | | | | |
+| | |X| | | | |
+| | |O| | |O| |
+|X| |X| | |O|O|
+|X| |X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | |O| | | | |
+| | |X| | | | |
+| | |O| | |O| |
+|X| |X| | |O|O|
+|X| |X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | |O| | | | |
+| | |X| | | | |
+| | |O| | |O| |
+|X| |X|X| |O|O|
+|X| |X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | |O| | | | |
+| | |X| | | | |
+| | |O| | |O| |
+|X| |X|X| |O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | |O| | | | |
+| | |X| | | | |
+| | |O| | |O| |
+|X| |X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | |O| | | | |
+| | |X| | | | |
+| | |O|O| |O| |
+|X| |X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | |O| | | | |
+| | |X|X| | | |
+| | |O|O| |O| |
+|X| |X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | | | | | | |
+| | |O| | | | |
+| | |X|X| | | |
+| | |O|O| |O| |
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | | | | | | |
+| | |O| | | | |
+| | |X|X| |X| |
+| | |O|O| |O| |
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | |O| | | | |
+| | |O| | | | |
+| | |X|X| |X| |
+| | |O|O| |O| |
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | |O| | | | |
+| | |O| | | | |
+| | |X|X| |X| |
+| | |O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | |O| | | | |
+| | |O| | | | |
+| | |X|X| |X| |
+| |O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | |O| | | | |
+| | |O| | |X| |
+| | |X|X| |X| |
+| |O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | |O| | | | |
+| | |O| | |X| |
+| | |X|X| |X|O|
+| |O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | |O| | | | |
+| | |O|X| |X| |
+| | |X|X| |X|O|
+| |O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+| | |O| | |O| |
+| | |O|X| |X| |
+| | |X|X| |X|O|
+| |O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | |O| | |O| |
+| | |O|X| |X|X|
+| | |X|X| |X|O|
+| |O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+3 is already full. Please try a different column.
+6 is already full. Please try a different column.
+| | |O|O| |O| |
+| | |O|X| |X|X|
+| | |X|X| |X|O|
+| |O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 1, please enter a row to insert into.
+| | |O|O| |O| |
+| | |O|X| |X|X|
+| |X|X|X| |X|O|
+| |O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2, please enter a row to insert into.
+4 is already full. Please try a different column.
+| | |O|O| |O| |
+| | |O|X| |X|X|
+| |X|X|X| |X|O|
+|O|O|O|O| |O|X|
+|X|O|X|X|X|O|O|
+|X|O|X|X|O|X|O|
+---------------
+Player 2 wins!
