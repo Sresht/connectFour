@@ -21,10 +21,11 @@ public class Main {
 		System.out.println("Welcome to Connect4!\n\n");
 		System.out.println(grid.getGrid());
 		System.out.println("Player " + (isP1Turn ? "1" : "2") + ", please enter a row to insert into.");
-		
-		int column;
-		Scanner scanner = new Scanner(System.in);
-		column = readInput(scanner);
+
+		int column = (int) Math.ceil(Math.random() * 7);
+
+//		Scanner scanner = new Scanner(System.in);
+//		column = readInput(scanner);
 		while (true) {
 			if (column > NUMCOLUMNS || column < 1) {
 				System.out.println(Integer.toString(column) + " is not a valid column. "
@@ -45,7 +46,7 @@ public class Main {
 				}
 				else {
 					// the game has ended in one of three ways: p1 wins, p2 wins, or a tie
-					scanner.close();
+//					scanner.close();
 					System.out.println(grid.getGrid());
 					if (retVal == DropTokenReturnValue.P1WIN) {
 						System.out.println("Player 1 wins!");
@@ -62,7 +63,8 @@ public class Main {
 			
 //			Regardless of whether there's an error or if the user successfully dropped a token, 
 //			go to the next iteration
-			column = readInput(scanner);
+//			column = readInput(scanner);
+			column = (int) Math.ceil(Math.random() * 7);
 		}
 	}
 	
